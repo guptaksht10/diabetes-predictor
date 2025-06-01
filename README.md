@@ -74,9 +74,11 @@ cd diabetes-predictor
 
 ```bash
 python -m venv venv
-# Activate:
-# Windows: venv\Scripts\activate
-# macOS/Linux: source venv/bin/activate
+
+# Windows: 
+venv\Scripts\activate
+# macOS/Linux: 
+source venv/bin/activate
 ```
 
 ## Install dependencies:
