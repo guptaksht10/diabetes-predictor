@@ -15,7 +15,6 @@ diabetes-predictor/
 ├── README.md # Project documentation
 └── .gitignore # Ignored files (e.g., venv/, checkpoints)
 
-yaml
 ---
 
 ## 📊 Dataset
@@ -56,31 +55,42 @@ yaml
 
 ---
 
-## 📦 Requirements
-
-Install dependencies using:
+## Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-🚀 Run the Project
+```
+
+## 🚀 Run the Project
+
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/guptaksht10/diabetes-predictor.git
 cd diabetes-predictor
-Create and activate a virtual environment:
+```
 
-bash
+## Create and activate a virtual environment:
+
+```bash
 python -m venv venv
 # Activate:
 # Windows: venv\Scripts\activate
 # macOS/Linux: source venv/bin/activate
-Install dependencies:
+```
 
-bash
+## Install dependencies:
+
+```bash
 pip install -r requirements.txt
-Launch Jupyter Notebook:
+```
 
-bash
+## Launch Jupyter Notebook:
+
+```bash
 jupyter notebook
+```
+
+## 📄 License
+This project is open-source and available under the MIT License.
 
